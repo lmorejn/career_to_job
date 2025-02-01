@@ -14,4 +14,4 @@ This app/website helps you to get a job.
 - https://kneeboard.live/
 
 ### Sections:
-- **What could I be?:** Find jobs you can according to your curriculum/resume.
+- **What could I be?:** Find jobs you can according to your curriculum/resume. 
